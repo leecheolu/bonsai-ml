@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='bonsai_ml',
-    version='0.0.3',
+    version='0.0.4',
     description='bonsai',
     author='MAPS',
     author_email='dongguk.maps@gmail.com',
